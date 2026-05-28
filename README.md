@@ -107,7 +107,7 @@ Turtle is part of the Python standard library — **no pip install needed.**
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/virus-render.git
+git clone https://github.com/subdas374/virus-render.git
 
 # Navigate into it
 cd virus-render
